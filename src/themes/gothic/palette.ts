@@ -1,18 +1,21 @@
 import { ColorPalette } from "../../types/palette";
 
+// 変数名に縛られなくても良い
+// TODO: 変数名を使用用途に合わせて変更する
+
 export const gothicPallet: ColorPalette = {
   bgLight: "#4B4B4B",
   bgMain: "#3B3B3B",
   bgDark: "#2B2B2B",
   bgDarker: "#1B1B1B",
-  fgMain: "#F1F1F1",
-  fgSub: "#C1C1C1",
-  fgShadow: "#B1B1B1",
-  red: "#E53935",
-  orange: "#FB8C00",
-  yellow: "#FFEB3B",
-  green: "#43A047",
-  cyan: "#00ACC1",
-  blue: "#1E88E5",
-  purple: "#8E24AA",
+  fgMain: "#BEBEBE",
+  fgSub: "#9A9A9A",
+  fgShadow: "#8A8A8A",
+  red: "#FF948A",
+  orange: "#FC9700",
+  yellow: "#CCCC00",
+  green: "#00CC00",
+  cyan: "#00E3E3",
+  blue: "#7A97FF",
+  purple: "#C199FF",
 };
