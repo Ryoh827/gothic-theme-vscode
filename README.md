@@ -1,16 +1,7 @@
-# gothic-theme-vscode README
+# gothic-theme-vscode
 
-## Working with Markdown
+## A theme for Visual Studio Code based on gothic colors
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![screenshot](./assets/color-sample.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+> ⚠️ This theme is now developing. So, it may be changed.
