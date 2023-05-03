@@ -16,6 +16,6 @@ export const gothicPallet: ColorPalette = {
   yellow: "#FFFF00",
   green: "#A7FF9D",
   cyan: "#C1FFFD",
-  blue: "#A0B0DE",
+  blue: "#B3D8FF",
   purple: "#E599FF",
 };
